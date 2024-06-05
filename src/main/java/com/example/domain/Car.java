@@ -23,7 +23,7 @@ public class Car {
     @Override
     public String toString() {
         return "Car{" +
-                "スピード=" + speed +
+                "speed=" + speed +
                 ", type='" + type + '\'' +
                 '}';
     }
